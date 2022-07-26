@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/fatih/color v1.13.0
-	github.com/ipipdotnet/ipdb-go v1.3.1
+	github.com/ipipdotnet/ipdb-go v1.3.3
 	github.com/oschwald/geoip2-golang v1.5.0
 	github.com/saracen/go7z v0.0.0-20191010121135-9c09b6bd7fda
 	github.com/spf13/cobra v1.3.0
