@@ -7,12 +7,12 @@ require (
 	github.com/ipipdotnet/ipdb-go v1.3.1
 	github.com/oschwald/geoip2-golang v1.5.0
 	github.com/saracen/go7z v0.0.0-20191010121135-9c09b6bd7fda
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.6.1
 	golang.org/x/text v0.3.7
 )
 
 require (
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/oschwald/maxminddb-golang v1.8.0 // indirect
